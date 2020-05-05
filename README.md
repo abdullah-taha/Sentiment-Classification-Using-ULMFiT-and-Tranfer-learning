@@ -1,4 +1,4 @@
-# Sentiment-Classification-Using-ULMFI-and-Tranfer-learning
+# Sentiment-Classification-Using-ULMFiT-and-Tranfer-learning
 
 * This is a sentiment classification project using [FastAi](https://github.com/fastai/fastai) deep learning library.
 * The goal is to classify cell phones reviews as positive and negative.
